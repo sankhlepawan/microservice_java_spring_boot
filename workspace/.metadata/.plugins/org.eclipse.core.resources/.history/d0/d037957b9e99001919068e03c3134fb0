@@ -1,0 +1,11 @@
+package com.design.creational.factory;
+
+public class CarFactory {
+
+	public static Car buildCar(CarType type) {
+		switch() {
+		
+		}
+		
+	}
+}

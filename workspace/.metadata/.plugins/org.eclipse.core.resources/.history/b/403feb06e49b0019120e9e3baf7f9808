@@ -1,0 +1,11 @@
+package com.design.creational.abstractfactory;
+
+public abstract class Car {
+
+	private CarType model;
+	private Loaction location;
+	
+	public Car(CarType type, Location location) {
+		
+	}
+}

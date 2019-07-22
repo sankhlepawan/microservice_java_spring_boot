@@ -1,0 +1,16 @@
+package com.design.creational.factory;
+
+public class SedanCar extends Car {
+
+	
+	public SedanCar() {
+		super(CarType.LUXURY);
+	}
+
+	@Override
+	protected void construct() {
+		System.out.println("Building Luxury car...");
+
+	}
+
+}

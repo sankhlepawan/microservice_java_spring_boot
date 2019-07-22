@@ -1,0 +1,11 @@
+package com.design.creational.abstractfactory;
+
+public class CarFactory {
+
+	private CarFactory() {};
+	
+	public static Car buildCar(CarType type) {
+		Car cat = null;
+		Location location = Location.ASIA
+	}
+}

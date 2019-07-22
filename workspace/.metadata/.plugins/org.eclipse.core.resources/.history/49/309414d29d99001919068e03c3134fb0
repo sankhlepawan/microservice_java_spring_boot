@@ -1,0 +1,17 @@
+package com.design.creational.factory;
+
+public class LuxuryCard extends Car {
+
+	
+	public LuxuryCard(CarType model) {
+		super(model);
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	protected void construct() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

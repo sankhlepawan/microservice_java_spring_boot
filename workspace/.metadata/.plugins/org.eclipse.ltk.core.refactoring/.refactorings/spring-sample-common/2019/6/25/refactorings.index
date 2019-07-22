@@ -1,0 +1,30 @@
+1560850623518	Rename package 'com.sample.common.springsamplecommon'
+1560852441807	Copy package
+1560852450956	Delete element
+1560852574206	Rename package 'com.sample.generic.generic'
+1560852586092	Rename package 'com.sample.generic.generic.impl'
+1560852599779	Delete element
+1560852726101	Rename type 'ScheduledDeviceTasks'
+1560853151324	Rename package 'com.sample.dao'
+1560853166837	Rename package 'com.sample.dao.impl'
+1560853210712	Rename package 'com.sample.dao.repo'
+1560853224344	Rename package 'com.sample.generic'
+1560853235804	Rename package 'com.sample.generic.impl'
+1560853252767	Rename package 'com.sample.util'
+1560853265287	Rename package 'com.sample.util.model'
+1560855057158	Copy compilation units
+1560855071785	Delete elements
+1560855095422	Copy compilation units
+1560855133539	Delete elements
+1560855165022	Copy compilation units
+1560855171671	Delete elements
+1560855212956	Copy compilation units
+1560855224031	Delete elements
+1560855370071	Delete element
+1560855374896	Delete element
+1560855379204	Delete element
+1560855384500	Delete element
+1560855465127	Copy compilation units
+1560855477120	Copy compilation unit
+1560855482965	Delete element
+1560855494697	Delete elements

@@ -1,0 +1,18 @@
+package com.design.creational.abstractfactory;
+
+public abstract class Car {
+
+	private CarType model;
+	private Location location;
+	
+	public Car(CarType type, Location location) {
+		this.model = type;
+		this.location = location;
+		arrengeParts();
+	}
+
+	private void arrengeParts() {
+		System.out.println("arrenge parts...");
+		
+	}
+}

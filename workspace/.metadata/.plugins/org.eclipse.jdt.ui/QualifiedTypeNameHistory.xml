@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.slf4j.Logger"/>
+<fullyQualifiedTypeName name="org.slf4j.LoggerFactory"/>
+<fullyQualifiedTypeName name="com.sample.common.model.Role"/>
+<fullyQualifiedTypeName name="com.sample.common.dao.IUserDao"/>
+<fullyQualifiedTypeName name="com.sample.common.model.User"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="org.apache.commons.collections.CollectionUtils"/>
+<fullyQualifiedTypeName name="com.sample.auth.server.model.Role"/>
+<fullyQualifiedTypeName name="com.sample.auth.server.model.User"/>
+<fullyQualifiedTypeName name="com.sample.auth.server.model.AuthUser"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="org.apache.commons.math.util.OpenIntToDoubleHashMap.Iterator"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="java.util.Map.Entry"/>
+<fullyQualifiedTypeName name="java.lang.Cloneable"/>
+<fullyQualifiedTypeName name="com.design.creational.prototype.PrototypeFactory.ModelType"/>
+<fullyQualifiedTypeName name="com.design.creational.abstractfactory.CarType"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,10 @@
+package com.design.creational.factory;
+
+public abstract class Car {
+	
+	public Car(CarType model) {
+		this.model = model;
+		
+	}
+
+}

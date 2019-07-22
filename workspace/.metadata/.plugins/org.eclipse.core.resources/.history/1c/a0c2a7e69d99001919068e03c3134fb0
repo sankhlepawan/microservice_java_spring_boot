@@ -1,0 +1,16 @@
+package com.design.creational.factory;
+
+public class LuxuryCard extends Car {
+
+	
+	public LuxuryCard(CarType model) {
+		super(model);
+	}
+
+	@Override
+	protected void construct() {
+		System.out.println("Building Luxury car...");
+
+	}
+
+}
